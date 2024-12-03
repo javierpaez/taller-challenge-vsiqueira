@@ -7,10 +7,10 @@ Create a simple RESTful API using Node.js and Express that allows users to manag
 - completed (boolean): Indicates whether the task is completed
 
 ## The API should support the following endpoints:
-GET /tasks - Retrieve all tasks
-POST /tasks - Create a new task
-PUT /tasks/:id - Update an existing task by ID
-DELETE /tasks/:id - Delete a task by ID
+- GET /tasks - Retrieve all tasks
+- POST /tasks - Create a new task
+- PUT /tasks/:id - Update an existing task by ID
+- DELETE /tasks/:id - Delete a task by ID
 
 ## Requirements:
 - Use Node.js and Express for the backend.
@@ -22,7 +22,3 @@ DELETE /tasks/:id - Delete a task by ID
 - The challenge should be solvable in less than 30 minutes.
 - Ensure code quality and use ES6+ features.
 
-## External Resources
-Node.js
-Express.js
-Postman for testing the API (optional)
